@@ -66,9 +66,9 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/80e25eb9df0a71cc84e6cf23ef98b195ca727e6b/gambar/output%20layout%20sederhana%201.png)
 
-
-
+Kemudian tambahkan kode CSS untuk membuat layoutnya
 
 
 
