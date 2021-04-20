@@ -106,7 +106,7 @@ Selanjutnya Membuat Hero Panel
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/ba94940250ecb5ba3a6c9a1616dbcdfaa72f07b4/gambar/codingan%20hero%20panel.png)
 
 
 
