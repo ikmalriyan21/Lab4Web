@@ -35,3 +35,31 @@ Hasil Output dari Box Element
 
 
 ![input](https://github.com/ikmalriyan21/Lab4Web/blob/ae0a1ae760ae2c01ca25ecff3aabeaf3462a1cfb/gambar/output%20box%20element.png)
+
+Selanjutnya, mengatur div3 kemudian atur property pada CSS. Hasil outputnya
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/340e6dec83e806ff2720ed48c536bea8a32b1bde/gambar/output%20clearfix%20element.png)
+
+# Membuat Layout Sederhana
+
+Codingan kerangka layout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
