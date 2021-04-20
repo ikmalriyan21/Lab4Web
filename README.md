@@ -120,6 +120,30 @@ Hasil output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/64848f17910d23ab9eb17e88d3c79f3d63ce758e/gambar/output%20hero%20panel.png)
+
+Mengatur Layout Main dan Sidebar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
