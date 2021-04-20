@@ -186,7 +186,7 @@ Kemudian tambahkan CSS
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/14b23d978be418be024db201deee6358006bf445/gambar/codingan%20css%20main%20content%201.png)
 
 
 
