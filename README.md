@@ -224,3 +224,4 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/006efda6f785ec1c94ea4355b1e55b5447c1f093/gambar/output%20content%20artikel.png)
