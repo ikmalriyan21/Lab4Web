@@ -146,4 +146,24 @@ Kemudian tambahkan CSS
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/614d42d2b1b1a4b7de43c53d09fd22bae30fb7c6/gambar/codingan%20css%20widget.png)
+
+Hasil Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
