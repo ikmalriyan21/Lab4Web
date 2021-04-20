@@ -74,8 +74,18 @@ Kemudian tambahkan kode CSS untuk membuat layoutnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/e6634ab1ecef0491298315640aae10deb96f11d8/gambar/codingan%20css%20style.png)
+
+Hasil Output
 
 
 
+
+
+
+
+
+
+Kemudian selanjutnya mengatur navigasi
 
 
