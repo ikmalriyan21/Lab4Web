@@ -52,7 +52,7 @@ Codingan kerangka layout
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/257138c54a0975f742be21db57ec9066a10ed77f/gambar/codingan%20kerangka%20layout%201.png)
 
 
 
