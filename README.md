@@ -58,6 +58,22 @@ Codingan kerangka layout
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/818e001828bffb96abb3173cb2f0518387e9b1a2/gambar/codingan%20kerangka%20layout%202.png)
+
+Hasil Output
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
