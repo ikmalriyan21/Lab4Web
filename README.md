@@ -138,9 +138,9 @@ Kemudian selanjutnya menambahkan element lain dalam sidebar
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/2ff7e0e43ef24b4280c94e0bc79d0ea2cd154b1f/gambar/codingan%20sidebar.png)
 
-
-
+Kemudian tambahkan CSS
 
 
 
