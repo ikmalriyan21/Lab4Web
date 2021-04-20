@@ -154,9 +154,9 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/d2927c65d425612f6ec93b23125a87c5e2ecf42d/gambar/output%20sidebar.png)
 
-
-
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer
 
 
 
