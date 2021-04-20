@@ -197,3 +197,23 @@ Kemudian tambahkan CSS
 Hasil Output
 
 
+
+
+
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/b6d33fd58079413c02db52e1200589a1bff8fcc8/gambar/output%20main%20content.png)
+
+Selanjutnya menambahkan Content Artikel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
