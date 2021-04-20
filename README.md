@@ -92,7 +92,7 @@ Kemudian selanjutnya mengatur navigasi
 
 ![input](https://github.com/ikmalriyan21/Lab4Web/blob/e586d34bc6c669d96224c997755295b707fa12fc/gambar/codingan%20navigasi.png)
 
-Hasil output
+Hasil Output
 
 
 
@@ -114,7 +114,7 @@ Selanjutnya Membuat Hero Panel
 
 ![input](https://github.com/ikmalriyan21/Lab4Web/blob/68898687c59a9536845c55090338259bc2569327/gambar/codingan%20css%20hero%20panel.png)
 
-Hasil output
+Hasil Output
 
 
 
@@ -128,11 +128,11 @@ Mengatur Layout Main dan Sidebar
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/e9f629425cc215b26be1fe81ec27427a240c99ab/gambar/codingan%20layout%20main%20dan%20sidebar.png)
 
+Membuat Sidebar Widget
 
-
-
-
+Kemudian selanjutnya menambahkan element lain dalam sidebar
 
 
 
