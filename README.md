@@ -216,7 +216,7 @@ Kemudian tambahkan CSS
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/ab471f7f8fd3e4c47193b30aa8bc56f9dda5e766/gambar/codingan%20css%20content%20artikel.png)
 
 Hasil Output
 
