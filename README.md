@@ -98,6 +98,26 @@ Hasil output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/8478528b73b792c3c5e510fce51b1d5905fef22d/gambar/output%20navigasi.png)
+
+Selanjutnya Membuat Hero Panel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
