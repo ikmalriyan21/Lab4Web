@@ -208,10 +208,17 @@ Selanjutnya menambahkan Content Artikel
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/f49c4f124056f8f369cd7b1088b44a3ce7c2ade1/gambar/codingan%20content%20artikel.png)
+
+Kemudian tambahkan CSS
 
 
 
 
+
+
+
+Hasil Output
 
 
 
