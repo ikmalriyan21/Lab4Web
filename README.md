@@ -162,6 +162,16 @@ Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/0be5ecc9749f6978c9fecacc6b7a838b3b9ddfe1/gambar/codingan%20mengatur%20footer.png)
+
+Hasil Output
+
+
+
+
+
+
+
 
 
 
