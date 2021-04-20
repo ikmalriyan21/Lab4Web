@@ -28,9 +28,10 @@ Codingan CSS Float Property
 
 ![input](https://github.com/ikmalriyan21/Lab4Web/blob/d71cdb87407b0f0f3455da2880a7def3fc6b1896/gambar/codingan%20css%20float%20property.png)
 
-Hasil Output
+Hasil Output dari Box Element
 
 
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/ae0a1ae760ae2c01ca25ecff3aabeaf3462a1cfb/gambar/output%20box%20element.png)
