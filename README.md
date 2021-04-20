@@ -178,9 +178,9 @@ Menambahkan Elemen lainnya pada Main Content
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/e1d46a0bdd91c54de8b948536d65ff7a895dfc47/gambar/codingan%20main%20content.png)
 
-
-
+Kemudian tambahkan CSS
 
 
 
