@@ -90,9 +90,9 @@ Kemudian selanjutnya mengatur navigasi
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/e586d34bc6c669d96224c997755295b707fa12fc/gambar/codingan%20navigasi.png)
 
-
-
+Hasil output
 
 
 
