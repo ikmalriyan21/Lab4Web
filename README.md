@@ -82,10 +82,24 @@ Hasil Output
 
 
 
-
-
-
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/c76838c3f7d9f061052cb3da56df94566b5a1a0f/gambar/output%20layout%20sederhana%202.png)
 
 Kemudian selanjutnya mengatur navigasi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
