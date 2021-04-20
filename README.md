@@ -170,6 +170,26 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/7349dfe4f0575464046ff68fb2cab7d2b1226d43/gambar/output%20footer.png)
+
+Menambahkan Elemen lainnya pada Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
