@@ -192,8 +192,8 @@ Kemudian tambahkan CSS
 
 
 
+![input](https://github.com/ikmalriyan21/Lab4Web/blob/9dbe31b4735e751117952a3ed6067223ae6ddd0a/gambar/codingan%20css%20main%20content%202.png)
 
-
-
+Hasil Output
 
 
